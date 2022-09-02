@@ -13,3 +13,7 @@ Exercício 04 - Ler dois números inteiros e somá-los. Se a soma for maior que 
 Exercício 05 - Ler dois valores e apresentar a média.
 
 Exercício 06 - Ler um número e imprimir: se é maior que 20, igual a 20 ou menor que 20.
+
+Exercício 07 - Permitir que o usuário some dois números informados por ele.
+
+Exercício 08 - Permitir que o usuário faça subtração de dois valores informados por ele.
