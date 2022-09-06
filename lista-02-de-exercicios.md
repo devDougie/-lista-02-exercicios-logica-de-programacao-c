@@ -17,3 +17,7 @@ Exercício 06 - Ler um número e imprimir: se é maior que 20, igual a 20 ou men
 Exercício 07 - Permitir que o usuário some dois números informados por ele.
 
 Exercício 08 - Permitir que o usuário faça subtração de dois valores informados por ele.
+
+Exercício 09 - Permitir que o usuário faça divisão de dois valores informados por ele.
+
+Exercício 10 - Permitir que o usuário informe dois valores e ele insira qual operação ele deseja fazer (opções são 1- soma, 2-subtração, 3-divisão, 4-multiplicação).
