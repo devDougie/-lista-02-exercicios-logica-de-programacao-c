@@ -21,3 +21,7 @@ Exercício 08 - Permitir que o usuário faça subtração de dois valores inform
 Exercício 09 - Permitir que o usuário faça divisão de dois valores informados por ele.
 
 Exercício 10 - Permitir que o usuário informe dois valores e ele insira qual operação ele deseja fazer (opções são 1- soma, 2-subtração, 3-divisão, 4-multiplicação).
+
+Exercício 11 - Transformar temperatura de graus Celsius para Fahrenheit.
+
+Exercício 12 - Transformar temperatura de graus Farenheit para Celsius.
