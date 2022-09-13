@@ -25,3 +25,7 @@ Exercício 10 - Permitir que o usuário informe dois valores e ele insira qual o
 Exercício 11 - Transformar temperatura de graus Celsius para Fahrenheit.
 
 Exercício 12 - Transformar temperatura de graus Farenheit para Celsius.
+
+Exercício 13 - Apresentar todos os números divisíveis por 4 que sejam menores que 200.
+
+Exercício 14 - Receber um nome e imprimir as 4 primeiras letras do nome, use o comando “strlen”. 
