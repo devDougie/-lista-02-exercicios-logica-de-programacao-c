@@ -29,3 +29,7 @@ Exercício 12 - Transformar temperatura de graus Farenheit para Celsius.
 Exercício 13 - Apresentar todos os números divisíveis por 4 que sejam menores que 200.
 
 Exercício 14 - Receber um nome e imprimir as 4 primeiras letras do nome, use o comando “strlen”. 
+
+Exercício 15 - Ler nome, sexo e idade. Se sexo for masculino e idade maior que 18. Imprimir o nome da pessoa e a palavra ALISTAMENTO. Caso contrário imprimir NÃO ESTÁ APTO. 
+
+Exercício 16 - Receber um número do teclado e informar se ele é divisível por 10, por 5, por 2 ou se não é divisível por nenhum destes. 
