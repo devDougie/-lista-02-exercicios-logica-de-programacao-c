@@ -33,3 +33,10 @@ Exercício 14 - Receber um nome e imprimir as 4 primeiras letras do nome, use o 
 Exercício 15 - Ler nome, sexo e idade. Se sexo for masculino e idade maior que 18. Imprimir o nome da pessoa e a palavra ALISTAMENTO. Caso contrário imprimir NÃO ESTÁ APTO. 
 
 Exercício 16 - Receber um número do teclado e informar se ele é divisível por 10, por 5, por 2 ou se não é divisível por nenhum destes. 
+
+Exercício 17 - Ler a idade de uma pessoa e informar a sua classe eleitoral:
+				a. Não-eleitor (abaixo de 16 anos); 
+				b. Eleitor obrigatório (entre 18 e 65 anos);
+				c. Eleitor facultativo (entre 16 e 18 e maior de 65anos);
+
+Exercício 18 - Ler 2 valores e somar os dois. Caso a soma seja maior que 10, mostrar a soma.
