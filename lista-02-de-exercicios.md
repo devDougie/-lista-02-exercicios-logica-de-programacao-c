@@ -40,3 +40,7 @@ Exercício 17 - Ler a idade de uma pessoa e informar a sua classe eleitoral:
 				c. Eleitor facultativo (entre 16 e 18 e maior de 65anos);
 
 Exercício 18 - Ler 2 valores e somar os dois. Caso a soma seja maior que 10, mostrar a soma.
+
+Exercício 19 - Ler um número inteiro e verificar se está compreendido entre 20 e 80. Se estiver, imprimir “parabéns”, senão imprimir “tente outra vez”.
+
+Exercício 20 - Receber 4 números e imprimi-los em ordem crescente.
