@@ -44,3 +44,7 @@ Exercício 18 - Ler 2 valores e somar os dois. Caso a soma seja maior que 10, mo
 Exercício 19 - Ler um número inteiro e verificar se está compreendido entre 20 e 80. Se estiver, imprimir “parabéns”, senão imprimir “tente outra vez”.
 
 Exercício 20 - Receber 4 números e imprimi-los em ordem crescente.
+
+Exercício 21 - Escrever um programa, que leia valores inteiros até ser lido o valor -99. Quando isso acontecer o programa deverá escrever a soma e a média dos valores lidos. 
+
+Exercício 22 - Solicitar um número entre 1 e 4. Se a pessoas digitar um número diferente, mostrar a mensagem "entrada inválida" e solicitar o número novamente. Se digitar correto mostrar o número digitado.
