@@ -48,3 +48,7 @@ Exercício 20 - Receber 4 números e imprimi-los em ordem crescente.
 Exercício 21 - Escrever um programa, que leia valores inteiros até ser lido o valor -99. Quando isso acontecer o programa deverá escrever a soma e a média dos valores lidos. 
 
 Exercício 22 - Solicitar um número entre 1 e 4. Se a pessoas digitar um número diferente, mostrar a mensagem "entrada inválida" e solicitar o número novamente. Se digitar correto mostrar o número digitado.
+
+Exercício 23 - Fazer um programa que receba N valores no teclado e determine o maior. A condição de término do programa é quando o usuário digitar zero.
+
+Exercício 24 - Apresentar o total da soma obtida dos 20 primeiros números inteiros.
