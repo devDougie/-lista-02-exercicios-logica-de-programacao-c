@@ -52,3 +52,7 @@ Exercício 22 - Solicitar um número entre 1 e 4. Se a pessoas digitar um númer
 Exercício 23 - Fazer um programa que receba N valores no teclado e determine o maior. A condição de término do programa é quando o usuário digitar zero.
 
 Exercício 24 - Apresentar o total da soma obtida dos 20 primeiros números inteiros.
+
+Exercício 25 - Digite um nome, calcule e mostre quantas letras tem. 
+
+Exercício 26 - Receber um nome no teclado e imprimir quantas letras "A" tem o nome. 
