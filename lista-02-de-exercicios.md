@@ -56,3 +56,5 @@ Exercício 24 - Apresentar o total da soma obtida dos 20 primeiros números inte
 Exercício 25 - Digite um nome, calcule e mostre quantas letras tem. 
 
 Exercício 26 - Receber um nome no teclado e imprimir quantas letras "A" tem o nome. 
+
+Exercício 27 - Preencher um vetor com os números pares do número 2 a 20. 
